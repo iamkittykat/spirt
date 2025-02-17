@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iamkittykat/spirt/issues"
   },
-  "homepage": "https://github.com/iamkittykat/spirt#readme"
+  "homepage": "https://github.com/iamkittykat/spirt#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
 }
