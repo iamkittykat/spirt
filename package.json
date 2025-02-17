@@ -1,0 +1,19 @@
+{
+  "name": "spirtairlines",
+  "version": "1.0.0",
+  "description": "project for fusion scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkittykat/spirt.git"
+  },
+  "author": "loaf and voldy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamkittykat/spirt/issues"
+  },
+  "homepage": "https://github.com/iamkittykat/spirt#readme"
+}
